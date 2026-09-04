@@ -1,0 +1,1 @@
+export { filterPokemon } from './filterPokemon';

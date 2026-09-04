@@ -7,6 +7,8 @@ survives a reload.
 Data comes from [PokéAPI](https://pokeapi.co/). There's no backend, no database
 and no auth. The API is called straight from the client.
 
+**Live:** https://imaginative-daifuku-d9035c.netlify.app
+
 ## Running it
 
 ```sh
